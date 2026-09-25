@@ -1,0 +1,12 @@
+{
+  "latest": "1.3.0",
+  "min": "1.0.0",
+  "notes": "聚售台 V1.3 正式版（授权加固 + 诊断上报 + 自动更新）",
+  "releasedAt": "2026-09-25T16:58:23Z",
+  "full": "https://github.com/jushoutai/jushoutai-releases/releases/download/v1.3.0/_V1.3_.exe",
+  "fullSize": 153981598,
+  "fullSha256": "2ef5b61f74ac2d6f39269ea99f4b75da33a70b4ddb4a5469a7a2c8a0c737de94",
+  "patch": "",
+  "patchSize": 0,
+  "patchSha256": ""
+}
