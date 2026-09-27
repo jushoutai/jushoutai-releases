@@ -1,11 +1,11 @@
 {
-  "latest": "1.3.1",
+  "latest": "1.3.2",
   "min": "1.0.0",
-  "notes": "新增：客户报错自动上报（我能第一时间知道）；工作台右下角「检查更新」「上报日志」按钮；打开软件自动检查更新 + 每24小时一次（工作时间段内）",
-  "releasedAt": "2026-09-26T03:45:19Z",
-  "full": "https://github.com/jushoutai/jushoutai-releases/releases/download/v1.3.1/Jushoutai_V1.3.1_Setup.exe",
-  "fullSize": 156243060,
-  "fullSha256": "67f0aa0cc99e7b1cde0756ff4fdeb091107a92e05aca5effba53f44bc33250e3",
+  "notes": "聚售台 v1.3.2",
+  "releasedAt": "2026-09-27T06:41:08Z",
+  "full": "https://github.com/jushoutai/jushoutai-releases/releases/download/v1.3.2/Jushoutai_V1.3.2_Setup.exe",
+  "fullSize": 156277156,
+  "fullSha256": "cd42c70eabceef978db38225f2c37ea8b1b989293c0f9b182b0c9ebdb42cefef",
   "patch": "",
   "patchSize": 0,
   "patchSha256": ""
